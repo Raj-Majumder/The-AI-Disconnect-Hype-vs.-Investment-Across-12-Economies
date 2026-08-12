@@ -4,7 +4,6 @@ A data science project testing whether public AI hype (search interest) predicts
 
 **Headline finding:** the US posts one of the lowest AI search-interest scores in the set and by far the highest investment intensity. China and India post the two highest hype scores and sit mid-pack on capital. A fitted trend (not an assumed one) puts the hype-vs-investment rank correlation at the same level today (ρ=+0.45) as in a 2030 extrapolation — the relationship neither tightens nor breaks down over five years.
 
-📄 **[Read the full write-up with all 6 charts →](BLOG.md)**
 
 ## Data sources    
 
