@@ -4,9 +4,12 @@ A data science project testing whether public AI hype (search interest) predicts
 
 **Headline finding:** the US posts one of the lowest AI search-interest scores in the set and by far the highest investment intensity. China and India post the two highest hype scores and sit mid-pack on capital. A fitted trend (not an assumed one) puts the hype-vs-investment rank correlation at the same level today (ρ=+0.45) as in a 2030 extrapolation — the relationship neither tightens nor breaks down over five years.
 
+## Key libraries & models
+
+Built on pandas/numpy/matplotlib/seaborn for data and charts, with scikit-learn (StandardScaler + KMeans clustering) and scipy (log-linear regression, Spearman correlation) for the analysis — full list in requirements.txt. Doubles as an applied ML/stats exercise: feature scaling, clustering validation across scalers, and trend extrapolation with a sourced (not fitted) decay constant.
+
 
 ## Data sources    
-
 
 | Metric | Source | Vintage |
 |---|---|---|
